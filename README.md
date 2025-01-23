@@ -1,6 +1,9 @@
 # **Challenge Alura ONE amigo secreto**
 Esse é um projeto onde é possivel sortear entre uma lista de nomes apenas 1 nome.\
-Feito utilizando html, css e javascript.
+Feito utilizando:
++ HTML
++ CSS
++ JavaScript
 
 ## **Passo a Passo**
 
